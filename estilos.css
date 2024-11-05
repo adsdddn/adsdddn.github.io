@@ -49,6 +49,9 @@ a:active{
 	.entrada{
 	    color: #23A55A;
 	}
+        .salida{
+	    color: #EF3E41;
+	}
 	.ascenso{
 	    color: #1B9DFC;
 	}
